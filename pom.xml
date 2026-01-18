@@ -23,7 +23,7 @@
 		<!-- SonarQube Configuration -->
 		<sonar.host.url>http://13.233.87.95:9000</sonar.host.url>
 		<sonar.login>admin</sonar.login>
-		<sonar.password>admin@123</sonar.password>
+		<sonar.token>sqa_1db658c90dcb134b8594a488c3cf87e6021943b1</sonar.token>
     </properties>
 
     <dependencies>
