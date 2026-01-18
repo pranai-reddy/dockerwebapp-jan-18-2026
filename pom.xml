@@ -22,8 +22,11 @@
         <maven.compiler.target>1.8</maven.compiler.target>
 		<!-- SonarQube Configuration -->
 		<sonar.host.url>http://13.233.87.95:9000</sonar.host.url>
+		<sonar.login>Sonar_Creds</sonar.login> <!-- Created a Project Token in Sonar UI -->
+		<!-- 
 		<sonar.login>admin</sonar.login>
-		<sonar.token>sqa_1db658c90dcb134b8594a488c3cf87e6021943b1</sonar.token>
+		<sonar.password>admin@123</sonar.password>
+		-->
     </properties>
 
     <dependencies>
